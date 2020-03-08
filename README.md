@@ -1,14 +1,14 @@
-# ChildRainProjet::ChildRain
+# ChildRainProjekt::ChildRain
 
 Developed with Unreal Engine 4&Blender2.8
 
 Created by Team-Setonaikai
 
-Menbers:
+Members:
 
 植松…ObjectProgramer,ObjectDesigner
 
-岡…Planner,Designer,TEAMLEADER
+岡…Planner,Designer,TEAMREADER
 
 玉井…SystemProgramer,SystemDesigner,ObjectDesigner,ObjectProgramer
 
