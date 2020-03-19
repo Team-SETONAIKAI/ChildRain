@@ -11,9 +11,9 @@ Members:
 
 岡…TEAMREADER,GameDirector,ArtDirector
 
-玉井…EffectProgramer,SystemProgramer,ObjectProgramer
+玉井…EffectProgramer,SystemProgramer,ObjectProgramer,SroundProgrmer
 
-松浦…Version&FileManagement,ObjectProgramer
+松浦…Version&FileManagement,ObjectProgramer,AnimationProgramer
 
 森…MainProgramer,LevelDesigner,StoryPlanner
 
